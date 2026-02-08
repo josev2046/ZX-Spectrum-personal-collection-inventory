@@ -1,4 +1,4 @@
-| | ID | Model / Version | Serial Number | Condition | Accessories & Games | Notes/Origin & Tech Specs | Insured Value (GBP) |
+| ID | Model / Version | Serial Number | Condition | Accessories & Games | Notes/Origin & Tech Specs | Insured Value (GBP) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **1** | **ZX Spectrum 48K** | **D01-174556** | **Working** (Tested) | **Boxed** (Check if box serial matches unit). | **Factory:** Dundee (Timex).<br>**Tech:** "Transition Era" (Mid-1983).<br>**ID Check:** Silver Heatsink = Late Issue 2; Black Wedge = Early Issue 3.<br>**Note:** Matching numbers box commands premium. | **£150 – £200** |
 | **2** | **ZX Spectrum Series 1 16K** | *Check Serial* | **Working** | Cassette recorder<br>Manual (1st Ed)<br>1 Boxed Joystick<br>7 Games | **Origin:** Genuine Spectrum brand.<br>**Note:** "Series 1" implies very early (Issue 1 or 2). Genuine 16K models are exceptionally rare. | **£180 – £250** |
@@ -7,3 +7,4 @@
 | **5** | **ZX Spectrum 48K** | **001-519069** | **Refurbished** (New Membrane & Rubber Keys installed) | PSU, RF Cable, Cassette leads, Manuals.<br>4 Games: Ghostbusters, Ant Attack, etc. | **"The Hybrid"**<br>**Case:** Late 1984 (Samsung/Korea).<br>**Board:** Early 1983 **Issue 2** (swapped in).<br>**Upgrades:** Samsung Upper RAM (Stable), Spider Mod present. | **£100 – £125** |
 | **6** | **ZX Spectrum 48K** | **001-081123** | **Restored/Mint** (Recapped, Composite Mod) | Box, Polys, PSU, Joystick, Interface, Manuals.<br>Games: Horizons, Meteoroids, etc. | **"Collector Grade"**<br>**Tech:** **Issue 2** (Early 1983).<br>**Restoration:** Professional Recap, Composite Video Mod, Cosmetic Refurb.<br>**Status:** Museum quality example. | **£250 – £300** |
 | **7** | **ZX Spectrum 48K** | **D01-193467** | **Needs Repair** (Boots, but RF & Keyboard issues) | *None listed* | **Factory:** Dundee (Timex).<br>**Tech:** **Early Issue 3**.<br>**Diagnosis:** RF Modulator drift & Dead Membrane.<br>**Potential:** Value jumps to £100+ if fixed. | **£40 – £60** |
+
